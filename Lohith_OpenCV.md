@@ -7,4 +7,5 @@ Medical Image Analysis
 Object Detection 
 Image Segmentation
 Anomaly Detection
+OCR 
 ```
